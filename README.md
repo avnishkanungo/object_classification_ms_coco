@@ -1,7 +1,7 @@
 # Object Classification with MS COCO Dataset
 
 ## Overview
-This repository contains code for training and evaluating an object classification model using the MS COCO dataset. The model is trained to classify objects present in images into predefined categories.
+This repository contains code for training and evaluating an object classification model using the MS COCO dataset. The model is trained to classify objects present in images into predefined categories. Please refer to the Object_Classification_Description_and_Details.pdf file for more information on the implemenatation.
 
 ## Dataset
 The MS COCO (Microsoft Common Objects in Context) dataset is used for training and evaluation. It is a large-scale dataset containing images with annotations for object detection, segmentation, and captioning tasks.
@@ -12,3 +12,4 @@ You can download the MS COCO dataset from the official website: [MS COCO Dataset
 - Python 3.x
 - PyTorch
 - torchvision
+
